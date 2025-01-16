@@ -1,5 +1,5 @@
 # SinD3X
-SinD3X adalah tools berbasis Python untuk memindai DNS, subdomain, status domain/subdomain, port scanning, serta web server info dengan akurasi 90%. Dirancang untuk analisis keamanan jaringan dan informasi server, tools ini juga bebas di edit jika ada script no enc nya.
+SinD3X adalah tools berbasis Python untuk memindai DNS, subdomain, status domain/subdomain, port scanning, serta web server info dengan akurasi 90%. Dirancang untuk analisis keamanan jaringan dan informasi server, tools ini juga bebas di edit.
 
 ## Fitur
 - **DNS Lookup**: Resolusi DNS dari nama domain.
