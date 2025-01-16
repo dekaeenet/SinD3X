@@ -1,0 +1,6 @@
+untuk satunya lagi menggunakan Sublist3r yang di download di github
+cara:
+
+gitu clone https://github.com/username/Sublist3r.git
+
+untuk username cari sendiri ya semangatt
