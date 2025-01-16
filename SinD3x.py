@@ -27,8 +27,8 @@ port_services = {
 def banner():
     print(ascii_art)
     print("="*60)
-    print(" 🌐 SinD3X - Scan DNS, Subdomain & Network with Precision")
-    print(" 🛠️  Developed by: Arya Deka Alhadid")
+    print(" 🌐 SinD3X - Root User")
+    print(" 🛠️  Developed by: DekaXploiT")
     print(" 📊 Version: 2.0 (Enhanced Web Server Info Scan)")
     print("="*60)
 
